@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+    src: url('assets/fonts/Roboto-Thin.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: italic;
+    src: url('assets/fonts/Roboto-ThinItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: normal;
+    src: url('assets/fonts/Roboto-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: italic;
+    src: url('assets/fonts/Roboto-LightItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    src: url('assets/fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: italic;
+    src: url('assets/fonts/Roboto-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    src: url('assets/fonts/Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: italic;
+    src: url('assets/fonts/Roboto-MediumItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: normal;
+    src: url('assets/fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: italic;
+    src: url('assets/fonts/Roboto-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+    src: url('assets/fonts/Roboto-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: italic;
+    src: url('assets/fonts/Roboto-BlackItalic.ttf');
+}
+
+.jfx-decorator>* {
+    -fx-background-color: #161d25;
+    -fx-border-color: #161d25;
+}
+
+.jfx-decorator .jfx-decorator-buttons-container>.button {
+    -fx-background-color: #3f4266;
+}
+
+.container {
+    -fx-background-color: #3f4266;
+}
+
+.game-view {
+    -fx-background-image: url('assets/background/headsoccer_backgroundgame.png');
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.menu {
+    -fx-background-image: url('assets/background/headsoccer_backgroundhome.png');
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button {
+    -fx-font: normal 18pt 'Roboto';
+    -fx-font-weight: 100;
+    -fx-text-fill: white;
+    -fx-background-color: #1B243080;
+}
+
+.button:hover {
+    -fx-background-color: #161d2580;
+}
+
+.title {
+    -fx-font: normal 12pt 'Roboto';
+    -fx-font-weight: 100;
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-font: normal 12pt 'Roboto';
+    -fx-font-weight: 100;
+    -fx-text-fill: white;
+}
+
+.title-label {
+    -fx-font: italic 64pt 'Roboto';
+    -fx-font-weight: 900;
+    -fx-text-fill: white;
+}
+
+.time-label {
+    -fx-font: italic 64pt 'Roboto';
+    -fx-font-weight: 900;
+    -fx-effect: dropshadow(gaussian, #000000, 0, 1, 3, 3);
+}
+
+.score-label {
+    -fx-font: italic 24pt 'Roboto';
+    -fx-font-weight: 900;
+    -fx-effect: dropshadow(gaussian, #000000, 0, 1, 3, 3);
+}
+
+.text-field {
+    -fx-text-fill: white;
+    -fx-background-color: #1B2430;
+}
+
+.combo-box {
+    -fx-text-fill: white;
+    -fx-background-color: #1B2430;
+}
+
+.combo-box .list-view {
+    -fx-background-color: #1B2430;
+}
+
+.combo-box .list-cell {
+    -fx-text-fill: white;
+    -fx-background-color: #1B2430;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #3f4266;
+}
+
+.check-box>.box {
+    -fx-background-color: #1B2430;
+}
+
+.check-box:selected .mark {
+    -fx-background-color: white;
+}
+
+.fcontainer>.list-view {
+    -fx-background-color: #1B2430;
+}
+
+.fcontainer .list-cell {
+    -fx-text-fill: white;
+}
+
+.fcontainer .list-cell:even {
+    -fx-background-color: #212f42;
+}
+
+.fcontainer .list-cell:odd {
+    -fx-background-color: #1B2430;
+}
+
+.fcontainer .list-cell:selected {
+    -fx-background-color: #816797;
+}
+
+.container .progress-bar {
+    -fx-background-color: #1B2430;
+}
+
+.hcontainer {
+    -fx-background-color: #1B2430;
+}
+
+.now-playing {
+    -fx-background-color: linear-gradient(to right, #00000000, #000000FF);
+}
+
+.now-playing .label {
+    -fx-font-style: italic;
+    -fx-font-weight: 500;
+}
+
+.progress-bar {
+    -fx-accent: red;
+}
+
+.progress-bar .track {
+    -fx-background-color: linear-gradient(to right, #00000000, #000000FF);
+}
+
+.special-queued {
+    -fx-accent: gold;
+}

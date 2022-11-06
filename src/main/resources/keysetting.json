@@ -1,0 +1,12 @@
+{
+    "p1_left": "A",
+    "p1_right": "D",
+    "p1_jump": "W",
+    "p1_kick": "SPACE",
+    "p1_special": "S",
+    "p2_left": "LEFT",
+    "p2_right": "RIGHT",
+    "p2_jump": "UP",
+    "p2_kick": "ENTER",
+    "p2_special": "DOWN"
+}

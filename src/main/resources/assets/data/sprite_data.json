@@ -1,0 +1,290 @@
+[
+    {
+        "name": "ElecMan",
+        "sheetURL": "/assets/sprite/ElecMan.png",
+        "animation": [
+            {
+                "name": "idle",
+                "offset": {
+                    "x": 2,
+                    "y": 115
+                },
+                "offset_r": {
+                    "x": 2,
+                    "y": 157
+                },
+                "rolltype": 0,
+                "gap": 0,
+                "frames": [
+                    {
+                        "w": 17,
+                        "h": 40
+                    }
+                ]
+            },
+            {
+                "name": "running",
+                "offset": {
+                    "x": 28,
+                    "y": 118
+                },
+                "offset_r": {
+                    "x": 28,
+                    "y": 160
+                },
+                "rolltype": 1,
+                "gap": 2,
+                "frames": [
+                    {
+                        "w": 25,
+                        "h": 36
+                    },
+                    {
+                        "w": 21,
+                        "h": 36
+                    },
+                    {
+                        "w": 25,
+                        "h": 36
+                    },
+                    {
+                        "w": 21,
+                        "h": 36
+                    }
+                ]
+            },
+            {
+                "name": "jumping",
+                "offset": {
+                    "x": 135,
+                    "y": 115
+                },
+                "offset_r": {
+                    "x": 135,
+                    "y": 157
+                },
+                "rolltype": 0,
+                "gap": 0,
+                "frames": [
+                    {
+                        "w": 18,
+                        "h": 36
+                    }
+                ]
+            },
+            {
+                "name": "kicking",
+                "offset": {
+                    "x": 163,
+                    "y": 115
+                },
+                "offset_r": {
+                    "x": 163,
+                    "y": 160
+                },
+                "rolltype": 0,
+                "gap": 0,
+                "frames": [
+                    {
+                        "w": 28,
+                        "h": 36
+                    }
+                ]
+            },
+            {
+                "name": "winning",
+                "offset": {
+                    "x": 3,
+                    "y": 308
+                },
+                "offset_r": {
+                    "x": -1,
+                    "y": -1
+                },
+                "rolltype": 1,
+                "gap": 2,
+                "frames": [
+                    {
+                        "w": 23,
+                        "h": 34
+                    },
+                    {
+                        "w": 23,
+                        "h": 34
+                    }
+                ]
+            },
+            {
+                "name": "special",
+                "offset": {
+                    "x": -1,
+                    "y": -1
+                },
+                "offset_r": {
+                    "x": 1,
+                    "y": 298
+                },
+                "rolltype": 1,
+                "gap": 2,
+                "frames": [
+                    {
+                        "w": 22,
+                        "h": 36
+                    },
+                    {
+                        "w": 22,
+                        "h": 36
+                    },
+                    {
+                        "w": 22,
+                        "h": 36
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MegaMan",
+        "sheetURL": "/assets/sprite/MegaMan.png",
+        "animation": [
+            {
+                "name": "idle",
+                "offset": {
+                    "x": 2,
+                    "y": 115
+                },
+                "offset_r": {
+                    "x": 2,
+                    "y": 157
+                },
+                "rolltype": 0,
+                "gap": 0,
+                "frames": [
+                    {
+                        "w": 17,
+                        "h": 40
+                    }
+                ]
+            },
+            {
+                "name": "running",
+                "offset": {
+                    "x": 28,
+                    "y": 118
+                },
+                "offset_r": {
+                    "x": 28,
+                    "y": 160
+                },
+                "rolltype": 1,
+                "gap": 2,
+                "frames": [
+                    {
+                        "w": 25,
+                        "h": 36
+                    },
+                    {
+                        "w": 21,
+                        "h": 36
+                    },
+                    {
+                        "w": 25,
+                        "h": 36
+                    },
+                    {
+                        "w": 21,
+                        "h": 36
+                    }
+                ]
+            },
+            {
+                "name": "jumping",
+                "offset": {
+                    "x": 135,
+                    "y": 115
+                },
+                "offset_r": {
+                    "x": 135,
+                    "y": 157
+                },
+                "rolltype": 0,
+                "gap": 0,
+                "frames": [
+                    {
+                        "w": 24,
+                        "h": 36
+                    }
+                ]
+            },
+            {
+                "name": "kicking",
+                "offset": {
+                    "x": 163,
+                    "y": 115
+                },
+                "offset_r": {
+                    "x": 163,
+                    "y": 160
+                },
+                "rolltype": 0,
+                "gap": 0,
+                "frames": [
+                    {
+                        "w": 28,
+                        "h": 36
+                    }
+                ]
+            },
+            {
+                "name": "winning",
+                "offset": {
+                    "x": 3,
+                    "y": 308
+                },
+                "offset_r": {
+                    "x": -1,
+                    "y": -1
+                },
+                "rolltype": 1,
+                "gap": 2,
+                "frames": [
+                    {
+                        "w": 23,
+                        "h": 34
+                    },
+                    {
+                        "w": 23,
+                        "h": 34
+                    }
+                ]
+            },
+            {
+                "name": "special",
+                "offset": {
+                    "x": -1,
+                    "y": -1
+                },
+                "offset_r": {
+                    "x": 3,
+                    "y": 348
+                },
+                "rolltype": 1,
+                "gap": 2,
+                "frames": [
+                    {
+                        "w": 22,
+                        "h": 24
+                    },
+                    {
+                        "w": 22,
+                        "h": 24
+                    },
+                    {
+                        "w": 30,
+                        "h": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,924 @@
+[INFO] (44|addScene) Mon, 2022-11-07 04:44:17.469 [JavaFX Application Thread] SceneController -Added "Menu":class se233.project2.view.MenuView
+[INFO] (44|addScene) Mon, 2022-11-07 04:44:17.472 [JavaFX Application Thread] SceneController -Added "Game":class se233.project2.view.GameView
+[INFO] (44|addScene) Mon, 2022-11-07 04:44:17.473 [JavaFX Application Thread] SceneController -Added "CharaSelect":class se233.project2.view.CharaSelectView
+[INFO] (65|play) Mon, 2022-11-07 04:44:17.657 [JavaFX Application Thread] MediaController -Playing Cartoon - C U Again
+[INFO] (136|nowPlaying) Mon, 2022-11-07 04:44:17.714 [JavaFX Application Thread] MediaController -add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+[INFO] (68|activate) Mon, 2022-11-07 04:44:17.720 [JavaFX Application Thread] SceneController -Changed Scene to Menu
+[INFO] (28|load) Mon, 2022-11-07 04:44:18.993 [JavaFX Application Thread] KeyConfigLoader -Successfully Registered Keys
+[INFO] (30|load) Mon, 2022-11-07 04:44:19.002 [JavaFX Application Thread] SpriteLoader -Sprites loaded
+[INFO] (65|play) Mon, 2022-11-07 04:44:19.048 [JavaFX Application Thread] MediaController -Playing C418 - Sweden
+[INFO] (136|nowPlaying) Mon, 2022-11-07 04:44:19.057 [JavaFX Application Thread] MediaController -add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+[INFO] (68|activate) Mon, 2022-11-07 04:44:19.067 [JavaFX Application Thread] SceneController -Changed Scene to Game
+[INFO ] JavaFX Application Thread - 04:45:11.197 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:45:11.201 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:45:11.201 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:45:11.390 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:45:11.446 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:45:11.452 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:45:12.326 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:45:12.333 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:45:12.385 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:45:12.394 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:45:12.403 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:46:12.797 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:46:12.800 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:46:12.801 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:46:12.986 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:46:13.040 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:46:13.046 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:46:13.975 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:46:13.989 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:46:14.035 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:46:14.044 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:46:14.053 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:46:31.469 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:46:31.469 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:46:32.830 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:46:32.830 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:46:34.527 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:46:34.527 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:46:35.888 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:46:35.888 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:46:48.242 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:46:48.242 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:46:49.586 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:46:49.586 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:47:25.264 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:47:25.267 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:47:25.267 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:47:25.458 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:47:25.513 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:47:25.519 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:47:26.271 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:47:26.279 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:47:26.332 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:47:26.340 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:47:26.350 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:47:39.890 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:47:39.890 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:47:41.242 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:47:41.242 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:47:52.062 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:47:52.066 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:47:52.066 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:47:52.249 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:47:52.303 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:47:52.308 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:47:53.125 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:47:53.135 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:47:53.181 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:47:53.190 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:47:53.199 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:48:06.774 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:48:06.774 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:48:08.145 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:48:08.145 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:48:08.196 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 04:48:11.629 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:48:11.629 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:48:12.990 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:48:12.990 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:49:05.177 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:49:05.181 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:49:05.181 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:49:05.363 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:49:05.418 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:49:05.424 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:49:06.214 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:49:06.225 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:49:06.301 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:49:06.312 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:49:06.328 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:49:19.186 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:49:19.186 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:49:20.555 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:49:20.555 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:49:39.728 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:49:39.731 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:49:39.732 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:49:39.918 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:49:39.976 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:49:39.982 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:50:24.565 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:50:24.572 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:50:24.656 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:50:24.665 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:50:24.674 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:50:38.862 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:50:38.862 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:50:40.243 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:50:40.243 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:50:44.548 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:50:44.548 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:50:45.944 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:50:45.944 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:51:02.074 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:51:02.078 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:51:02.079 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:51:02.277 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:51:02.339 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:51:02.344 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:51:03.194 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:51:03.209 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:51:03.257 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:51:03.265 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:51:03.274 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:51:15.651 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:51:15.651 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:51:17.044 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:51:17.044 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:51:36.587 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:51:36.590 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:51:36.591 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:51:36.774 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:51:36.830 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:51:36.835 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:51:37.550 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:51:37.559 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:51:37.610 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:51:37.619 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:51:37.628 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:51:49.722 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:51:49.723 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:51:51.063 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:51:51.063 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:52:05.273 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:52:05.276 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:52:05.277 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:52:05.460 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:52:05.512 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:52:05.518 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:52:06.251 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:52:06.258 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:52:06.308 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:52:06.316 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:52:06.326 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:52:20.915 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:52:20.915 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:52:22.273 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:52:22.273 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:52:31.113 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:52:31.117 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:52:31.118 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:52:31.328 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:52:31.389 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:52:31.398 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:52:33.486 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:52:33.494 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:52:33.539 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:52:33.548 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:52:33.557 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:52:53.661 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:52:53.661 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:52:55.003 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:52:55.003 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:53:05.044 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:53:05.048 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:53:05.048 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:53:05.239 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:53:05.295 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:53:05.301 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:53:06.180 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:53:06.188 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:53:06.240 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:53:06.248 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:53:06.257 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:53:21.312 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:53:21.312 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:53:22.649 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:53:22.649 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:53:25.628 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:53:25.628 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:53:26.963 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:53:26.963 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:53:35.552 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:53:35.556 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:53:35.556 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:53:35.739 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:53:35.793 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:53:35.798 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:53:36.649 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:53:36.660 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:53:36.704 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:53:36.712 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:53:36.721 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:53:48.638 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:53:48.638 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:53:50.021 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:53:50.021 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:54:01.954 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:54:01.957 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:54:01.957 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:54:02.142 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:54:02.196 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:54:02.202 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:54:03.020 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:54:03.032 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:54:03.079 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:54:03.088 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:54:03.096 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:54:15.981 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:54:15.981 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:54:17.326 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:54:17.326 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:54:30.595 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:54:30.595 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:54:42.252 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:54:42.256 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:54:42.256 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:54:42.444 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:54:42.501 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:54:42.507 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:54:43.384 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:54:43.392 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:54:43.442 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:54:43.451 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:54:43.460 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:54:55.498 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:54:55.499 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:54:56.879 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:54:56.879 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:55:01.124 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:55:01.124 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:55:02.519 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:55:02.519 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:55:12.626 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:55:12.626 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:55:13.973 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:55:13.973 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:55:17.599 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:55:17.599 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:55:18.945 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:55:18.945 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:56:04.778 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:56:04.782 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:56:04.782 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:56:04.959 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:56:05.013 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:56:05.018 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:56:20.264 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:56:20.268 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:56:20.268 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:56:20.449 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:56:20.503 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:56:20.508 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:56:21.524 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:56:21.534 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:56:21.581 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:56:21.589 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:56:21.598 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:56:33.824 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:56:33.825 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:56:35.169 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:56:35.169 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:56:55.762 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:56:55.765 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:56:55.765 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:56:55.957 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:56:56.010 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:56:56.016 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:56:56.833 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:56:56.846 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:56:56.892 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:56:56.900 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:56:56.909 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:57:08.986 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:57:08.986 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:57:10.333 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:57:10.333 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:57:35.037 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:57:35.041 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:57:35.041 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:57:35.224 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:57:35.276 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:57:35.282 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:57:35.957 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:57:35.965 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:57:36.015 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:57:36.024 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:57:36.034 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:57:48.009 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:57:48.009 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:57:49.392 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:57:49.392 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:58:04.243 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:58:04.243 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:58:05.603 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:58:05.603 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:58:21.216 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:58:21.220 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:58:21.220 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:58:21.401 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:58:21.454 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:58:21.459 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:58:22.212 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:58:22.219 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:58:22.269 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:58:22.278 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:58:22.286 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:58:29.813 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 04:58:29.822 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 04:58:29.832 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 04:58:29.842 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 04:58:29.851 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 04:58:35.836 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:58:35.836 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:58:37.230 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:58:37.230 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:58:58.470 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:58:58.473 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:58:58.473 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:58:58.653 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:58:58.705 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:58:58.711 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:58:59.488 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:58:59.495 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:58:59.546 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:58:59.554 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:58:59.563 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:59:11.769 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:59:11.769 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:59:13.119 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:59:13.119 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:59:24.946 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:59:24.949 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:59:24.949 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 04:59:25.130 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 04:59:25.183 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 04:59:25.188 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 04:59:32.627 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 04:59:32.635 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 04:59:32.680 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 04:59:32.689 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 04:59:32.698 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 04:59:41.945 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 04:59:47.368 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 04:59:47.368 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 04:59:48.711 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 04:59:48.711 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:00:24.041 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:00:24.044 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:00:24.044 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:00:24.225 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:00:24.280 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:00:24.285 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:00:25.911 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:00:25.919 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:00:25.964 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:00:25.972 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:00:25.982 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:00:37.965 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:00:37.965 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:00:39.358 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:00:39.358 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:00:52.476 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:00:52.480 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:00:52.480 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:00:52.674 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:00:52.731 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:00:52.736 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:00:54.084 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:00:54.091 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:00:54.137 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:00:54.146 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:00:54.155 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:01:06.083 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:01:06.083 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:01:07.446 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:01:07.446 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:01:19.561 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:01:19.565 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:01:19.565 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:01:19.744 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:01:19.799 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:01:19.805 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:01:21.816 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:01:21.824 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:01:21.907 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:01:21.917 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:01:21.927 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:01:34.017 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:01:34.017 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:01:35.404 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:01:35.404 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:01:44.831 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:01:44.835 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:01:44.835 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:01:45.019 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:01:45.074 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:01:45.080 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:01:45.867 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:01:45.881 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:01:45.967 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:01:45.976 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:01:45.985 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:01:58.891 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:01:58.891 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:02:00.233 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:02:00.233 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:02:19.704 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:02:19.708 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:02:19.708 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:02:19.896 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:02:19.950 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:02:19.956 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:02:20.813 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:02:20.823 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:02:20.868 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:02:20.876 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:02:20.885 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:02:33.715 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:02:33.715 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:02:35.063 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:02:35.063 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:02:48.107 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:02:48.107 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:02:49.494 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:02:49.494 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:03:20.880 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:03:29.550 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:03:29.553 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:03:29.554 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:03:29.745 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:03:29.799 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:03:29.804 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:03:30.518 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:03:30.526 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:03:30.577 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:03:30.586 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:03:30.595 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:03:42.265 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:03:42.265 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:03:43.622 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:03:43.622 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:04:09.064 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:04:09.068 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:04:09.068 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:04:09.257 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:04:09.312 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:04:09.317 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:04:10.179 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:04:10.189 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:04:10.234 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:04:10.242 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:04:10.251 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:04:22.025 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:04:22.025 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:04:23.390 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:04:23.390 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:04:47.413 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:04:47.416 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:04:47.416 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:04:47.599 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:04:47.655 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:04:47.661 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:04:48.464 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:04:48.471 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:04:48.562 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:04:48.571 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:04:48.580 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:05:01.478 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:05:01.478 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:05:02.833 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:05:02.833 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:05:24.054 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:05:24.057 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:05:24.058 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:05:24.252 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:05:24.309 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:05:24.314 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:05:30.381 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:05:30.388 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:05:30.432 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:05:30.440 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:05:30.449 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:05:42.655 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:05:42.655 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:05:44.000 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:05:44.000 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:05:58.685 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:05:58.685 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:06:00.019 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:06:00.019 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:06:35.527 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:06:35.530 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:06:35.530 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:06:35.714 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:06:35.770 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:06:35.775 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:06:36.451 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:06:36.459 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:06:36.513 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:06:36.521 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:06:36.531 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:06:47.903 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:06:47.904 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:06:49.303 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:06:49.303 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:06:57.048 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:06:57.051 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:06:57.051 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:06:57.241 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:06:57.295 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:06:57.301 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:06:58.249 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:06:58.259 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:06:58.303 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:06:58.311 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:06:58.320 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:07:12.111 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:07:12.115 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:07:12.115 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:07:12.294 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:07:12.347 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:07:12.353 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:07:13.223 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:07:13.231 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:07:13.280 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:07:13.288 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:07:13.298 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:07:25.433 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:07:25.433 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:07:26.788 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:07:26.788 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:07:52.312 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:07:52.315 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:07:52.315 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:07:52.500 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:07:52.555 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:07:52.561 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:07:54.730 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:07:54.737 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:07:54.782 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:07:54.790 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:07:54.799 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:08:06.206 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:08:06.206 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:08:07.553 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:08:07.553 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:08:19.664 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:08:19.667 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:08:19.667 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:08:19.857 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:08:19.914 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:08:19.919 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:08:20.655 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:08:20.663 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:08:20.713 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:08:20.722 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:08:20.730 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:08:32.752 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:08:32.753 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:08:34.091 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:08:34.091 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:08:52.337 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:08:52.340 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:08:52.340 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:08:52.517 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:08:52.572 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:08:52.578 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:08:53.419 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:08:53.426 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:08:53.476 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:08:53.484 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:08:53.493 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:09:05.265 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:09:05.265 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:09:06.654 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:09:06.654 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:09:15.410 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:09:15.414 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:09:15.414 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:09:15.595 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:09:15.649 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:09:15.655 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:09:16.412 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:09:16.420 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:09:16.473 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:09:16.481 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:09:16.490 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:09:29.796 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:09:29.796 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:09:31.185 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:09:31.185 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:09:45.421 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:09:45.424 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:09:45.424 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:09:45.601 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:09:45.655 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:09:45.660 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:09:46.532 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:09:46.544 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:09:46.588 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:09:46.597 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:09:46.606 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:09:58.181 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:09:58.181 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:09:59.573 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:09:59.573 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:10:44.951 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:10:44.954 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:10:44.954 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:10:45.133 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:10:45.185 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:10:45.190 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:10:45.978 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:10:45.986 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:10:46.072 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:10:46.082 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:10:46.091 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:10:58.468 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:10:58.468 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:10:59.815 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:10:59.815 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:11:14.856 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:11:14.861 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:11:14.861 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:11:15.062 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:11:15.117 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:11:15.123 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:11:33.276 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:11:33.285 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:11:33.333 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:11:33.341 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:11:33.350 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:11:45.447 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:11:45.447 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:11:46.814 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:11:46.814 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:12:06.840 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:12:06.849 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:12:06.850 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:12:07.026 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:12:07.079 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:12:07.085 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:12:10.019 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:12:10.027 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:12:10.071 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:12:10.080 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:12:10.088 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:12:22.904 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:12:22.904 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:12:24.247 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:12:24.247 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:12:44.101 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:12:44.111 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:12:44.111 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:12:44.293 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:12:44.348 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:12:44.354 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:12:51.800 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:12:51.803 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:12:51.803 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:12:51.982 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:12:52.035 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:12:52.040 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:12:52.731 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:12:52.738 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:12:52.788 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:12:52.797 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:12:52.806 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:13:04.510 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:13:04.510 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:13:05.905 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:13:05.905 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:13:19.741 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:13:19.741 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:13:21.134 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:13:21.134 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:13:33.489 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:13:33.489 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:13:34.834 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:13:34.834 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:14:15.896 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:14:15.899 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:14:15.899 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:14:16.081 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:14:16.135 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:14:16.140 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:14:17.589 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:14:17.597 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:14:17.645 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:14:17.654 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:14:17.663 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:14:29.804 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:14:29.804 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:14:31.154 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:14:31.154 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:14:46.771 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:14:46.775 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:14:46.775 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:14:46.957 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:14:47.013 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:14:47.018 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:14:48.288 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:14:48.297 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:14:48.344 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:14:48.353 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:14:48.362 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:15:00.420 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:15:00.420 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:15:01.801 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:15:01.801 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:15:10.207 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:10.217 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:10.227 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:10.236 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:10.245 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.224 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.278 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.290 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.299 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.310 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.318 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.328 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:11.338 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.501 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.521 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.540 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.560 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.581 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.600 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.617 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.636 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.655 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.675 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.692 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.701 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.710 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:12.721 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:14.779 model.Character - intersect
+"[INFO ] JavaFX Application Thread - 05:15:16.178 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:15:16.178 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:15:17.561 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:15:17.561 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:15:21.388 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:15:21.388 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:15:22.732 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:15:22.732 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:15:47.569 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:15:47.573 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:15:47.573 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:15:47.755 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:15:47.808 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:15:47.814 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:15:48.420 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:15:48.428 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:15:48.519 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:15:48.528 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:15:48.537 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:16:04.976 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:16:04.979 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:16:04.980 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:16:05.176 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:16:05.232 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:16:05.238 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:20:10.408 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:20:10.411 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:20:10.411 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:20:10.594 controller.MediaController - Playing Cartoon - C U Again
+"[ERROR] JavaFX Application Thread - 05:20:10.600 controller.SceneController - java.lang.NullPointerException: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+" java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:116) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at se233.project2.controller.SceneController.activate(SceneController.java:61) ~[classes/:?]
+	at se233.project2.Launcher.start(Launcher.java:22) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:847) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:484) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:457) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:456) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+	at se233.project2.controller.ImageHandler.getImageAsStream(ImageHandler.java:21) ~[classes/:?]
+	at se233.project2.controller.MediaController.nowPlaying(MediaController.java:102) ~[classes/:?]
+	at se233.project2.controller.MediaController.play(MediaController.java:67) ~[classes/:?]
+	at se233.project2.view.MenuView.onStart(MenuView.java:44) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	... 12 more
+[INFO ] JavaFX Application Thread - 05:20:10.612 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:20:13.261 controller.KeyConfigLoader - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:20:13.269 controller.SpriteLoader - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:20:13.335 controller.MediaController - Playing C418 - Sweden
+"[ERROR] JavaFX Application Thread - 05:20:13.336 controller.SceneController - java.lang.NullPointerException: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+" java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:116) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at se233.project2.controller.SceneController.activate(SceneController.java:61) ~[classes/:?]
+	at se233.project2.view.MenuView.lambda$new$0(MenuView.java:27) ~[classes/:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-20-ea+4-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-20-ea+4-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-20-ea+4-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-20-ea+4-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-20-ea+4-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-20-ea+4-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-20-ea+4-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3895) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1888) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2621) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-20-ea+4-win.jar:?]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+	at se233.project2.controller.ImageHandler.getImageAsStream(ImageHandler.java:21) ~[classes/:?]
+	at se233.project2.controller.MediaController.nowPlaying(MediaController.java:102) ~[classes/:?]
+	at se233.project2.controller.MediaController.play(MediaController.java:67) ~[classes/:?]
+	at se233.project2.view.GameView.onStart(GameView.java:89) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	... 48 more
+[INFO ] JavaFX Application Thread - 05:20:13.344 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:20:54.459 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:20:54.474 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:20:54.475 controller.SceneController - Added "CharaSelect":class se233.project2.view.CharaSelectView
+"[INFO ] JavaFX Application Thread - 05:20:54.664 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:20:54.723 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:20:54.729 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:23:31.079 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:23:31.083 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:23:31.263 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:23:31.322 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:23:31.327 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:42:30.981 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:42:30.985 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:42:31.159 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:42:31.214 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:42:31.220 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:42:32.861 controller.KeySettingController - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:42:32.869 controller.SpriteController - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:42:32.916 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:42:32.924 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:42:32.933 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:46:41.319 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:46:41.322 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:46:41.502 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:46:41.558 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:46:41.563 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:47:00.966 controller.SceneController - Added "Menu":class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:47:00.969 controller.SceneController - Added "Game":class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:47:01.143 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:47:01.194 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:47:01.200 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:47:11.055 controller.KeySettingController - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:47:11.062 controller.SpriteController - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:47:11.105 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:47:11.113 controller.MediaController - add class javafx.scene.layout.BorderPane to class se233.project2.view.GameView
+"[INFO ] JavaFX Application Thread - 05:47:11.122 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:48:58.074 controller.SceneController - Added "Menu":class adv.headsoccer_project.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:48:58.077 controller.SceneController - Added "Game":class adv.headsoccer_project.view.GameView
+"[INFO ] JavaFX Application Thread - 05:48:58.259 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:48:58.311 controller.MediaController - add class javafx.scene.layout.BorderPane to class adv.headsoccer_project.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:48:58.317 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:49:11.081 controller.SceneController - Added "Menu":class adv.headsoccer_project.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:49:11.084 controller.SceneController - Added "Game":class adv.headsoccer_project.view.GameView
+"[INFO ] JavaFX Application Thread - 05:49:11.260 controller.MediaController - Playing Cartoon - C U Again
+"[INFO ] JavaFX Application Thread - 05:49:11.314 controller.MediaController - add class javafx.scene.layout.BorderPane to class adv.headsoccer_project.view.MenuView
+"[INFO ] JavaFX Application Thread - 05:49:11.319 controller.SceneController - Changed Scene to Menu
+"[INFO ] JavaFX Application Thread - 05:49:12.157 controller.KeySettingController - Successfully Registered Keys
+"[INFO ] JavaFX Application Thread - 05:49:12.169 controller.SpriteController - Sprites loaded
+"[INFO ] JavaFX Application Thread - 05:49:12.216 controller.MediaController - Playing C418 - Sweden
+"[INFO ] JavaFX Application Thread - 05:49:12.225 controller.MediaController - add class javafx.scene.layout.BorderPane to class adv.headsoccer_project.view.GameView
+"[INFO ] JavaFX Application Thread - 05:49:12.234 controller.SceneController - Changed Scene to Game
+"[INFO ] JavaFX Application Thread - 05:49:27.251 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:49:27.251 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:49:28.623 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:49:28.623 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:49:31.458 Game.DrawingLoop - DoubleBinding [value: 1.5] 0.1
+"[INFO ] JavaFX Application Thread - 05:49:31.458 Game.GameLoop - DoubleBinding [value: 12.0] 0.1
+"[INFO ] JavaFX Application Thread - 05:49:32.803 Game.DrawingLoop - DoubleBinding [value: 15.0] 1.0
+"[INFO ] JavaFX Application Thread - 05:49:32.803 Game.GameLoop - DoubleBinding [value: 120.0] 1.0
+"
